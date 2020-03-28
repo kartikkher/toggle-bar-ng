@@ -1,0 +1,40 @@
+.parent {
+    background-color: black;
+    height: 100%;
+}
+
+.heading{
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    height: 10%;
+
+}
+
+.toggle {
+    height: 34;
+    margin-left: 20;
+    margin-right: 20;
+}
+
+.toggler {
+    background-color: black;
+    border-bottom-width: 2;
+    border-color: purple;
+    height: 30;
+    margin-left: 1;
+    margin-right: 1;
+}
+
+.toggle-lbl {
+    color: white;
+    vertical-align: middle;
+}
+
+.trademark {
+    color: white;
+    font-size: x-large;
+    text-align: right;
+    height: 10%;
+    margin: 20;
+}
